@@ -34,6 +34,7 @@ pnpm-debug.log*
 
 # Claude Code
 .claude/
+.mcp.json
 
 # Next.js (if using)
 .next/
